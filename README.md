@@ -49,6 +49,7 @@ python manage.py createsuperuser        //Crear superusuario para poder acceder 
 
 
 
+
 # Pasos en Casa desde un proyecto ya creado por git
 Descargar proyecto con GIT
 sudo apt-get install python3-venv  -> Sino está instalado ya
